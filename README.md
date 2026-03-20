@@ -29,3 +29,6 @@ gcc src/main.c -o program
 gcc src/main.c -o program
 ./program
 ```
+
+## License
+MIT License
