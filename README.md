@@ -47,3 +47,5 @@ MIT License
 [Написать автору](mailto:author@example.com)
 
 [Исходный код на GitHub](https://github.com/headpnda/Kr1)
+
+![Логотип Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
