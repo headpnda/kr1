@@ -49,3 +49,10 @@ MIT License
 [Исходный код на GitHub](https://github.com/headpnda/Kr1)
 
 ![Логотип Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+
+### Команды Git
+| Команда | Описание |
+|---------|----------|
+| git init | Инициализация репозитория |
+| git add | Добавление файлов в индекс |
+| git commit | Создание коммита |
