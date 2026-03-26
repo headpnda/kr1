@@ -42,3 +42,6 @@ gcc src/main.c -o program
 
 ## Лицензия
 MIT License
+
+## Контакты
+[Написать автору](mailto:author@example.com)
